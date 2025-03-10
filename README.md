@@ -42,7 +42,7 @@
 <a href="https://vk.com/btoporin" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" width="32" height="32" alt="VK" />
 </a>
-<a href="https://t.me/ВАШ_ЛОГИН" target="_blank" rel="noreferrer">
+<a href="https://t.me/bbbbbbtp" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="32" height="32" alt="Telegram" />
 </a>
 </p>  
